@@ -1,0 +1,11 @@
+jupyterlab
+numpy
+pandas
+sklearn
+scipy
+seaborn
+pm4py
+p_decision_tree
+mlxtend
+nltk
+gensim
